@@ -1,8 +1,3 @@
-//Leonardo Oneda Galvani    RA: 20.00196-7
-//Renan Germano                    RA: 20.01879-7
-//Ubiratan da Motta Filho      RA:20.00928-3
-//Breno Yukio Harazaki           RA: 20.01303-5
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
